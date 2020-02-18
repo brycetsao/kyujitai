@@ -21,5 +21,5 @@ Heritage Typefaces of Traditional Chinese (Kanji)
 ## 一點明體 I.Ming いちてん明朝 One Dot Serif
 - Derived from IPA明朝 (IPA Serif)
 - Released by Ichiten Font Project (One-dot Font Project) under IPA Font License v1.0
-- 
+- Web fonts available
 - Project https://github.com/ichitenfont
