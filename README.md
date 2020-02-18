@@ -14,6 +14,7 @@ Heritage Typefaces of Traditional Chinese (Kanji)
 - 日星鉛華 http://typography.ascdc.sinica.edu.tw/
 
 ## 齊伋體 Qiji Serif
-- Extracted from Ming Dynasty woodblock printed books
+- Extracted from Ming Dynasty woodblock printed books, named in honor of 閔齊伋, 16 century typography technician
 - Released by Lingdong Huang under SIL Open Font License 1.1
+- Web fonts available
 - Project work in progress https://github.com/LingDong-/qiji-font
