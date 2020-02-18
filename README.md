@@ -18,3 +18,7 @@ Heritage Typefaces of Traditional Chinese (Kanji)
 - Released by Lingdong Huang under SIL Open Font License 1.1
 - Web fonts available
 - Project work in progress https://github.com/LingDong-/qiji-font
+## 一點明體 I.Ming いちてん明朝 One Dot Serif
+- Derived from IPA明朝 (IPA Serif)
+- Released by Ichiten Font Project (One-dot Font Project) under IPA Font License v1.0
+- Project https://github.com/ichitenfont
