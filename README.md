@@ -23,3 +23,6 @@ Heritage Typefaces of Traditional Chinese (Kanji)
 - Released by Ichiten Font Project (One-dot Font Project) under IPA Font License v1.0
 - Web fonts available
 - Project https://github.com/ichitenfont
+
+## 授權
+- 所有字體衍生之 Web Open Font Format 應遵循相應字體之授權條款使用，本 README.md 以 WTFPL 釋出。
