@@ -25,4 +25,4 @@ Heritage Typefaces of Traditional Chinese (Kanji)
 - Project https://github.com/ichitenfont
 
 ## 授權
-- 所有字體衍生之 Web Open Font Format 應遵循相應字體之授權條款使用，本 README.md 以 WTFPL 釋出。
+- 所有字體衍生之 Web Open Font Format 應遵循相應字體之授權條款使用，所有說明文件以 The Unlicense 釋出。
